@@ -1,0 +1,14 @@
+.DS_Store
+backup/
+application/bin/.env
+application/data/
+proxy/data/
+proxy/conf/conf.d/*.conf
+proxy/conf/certs/*.crt
+proxy/conf/certs/*.key
+proxy/conf/certs/*.pem
+proxy/conf/certs/*/
+
+
+wpclone/wordpress/Search-Replace-DB
+wpclone/mariadb/*.sql
