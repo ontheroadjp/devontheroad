@@ -1,4 +1,4 @@
-# docker-blog
+# devontheroad
 
 Setup and Running Docker containers SSL dynamic proxy(Nginx) and WordPress.
 
@@ -19,7 +19,7 @@ $ git clone https://github.com/ontheroadjp/docker-blog.git
 ```
 ### Settings
 
-Copy ``path/to/download/docker-blog/application/bin/.env.example`` to the same directory as ``.env``.  
+Copy ``path/to/download/docker-blog/application/bin/.env.example`` to the same directory as ``.env``.
 Edit ``.env`` file.  example below.
 
 ```bash
